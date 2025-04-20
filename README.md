@@ -12,10 +12,7 @@ Features:
 5) Responsive Design: Ensures usability across various devices and screen sizes.
 
 # Description
-The Calorie Needs Calculator allows users to input personal information such as age, gender, height, weight, activity level, and weight goals. Based on this data, it calculates:​
-1) ​Basal Metabolic Rate (BMR): The number of calories your body needs at rest.
-​2) Total Daily Energy Expenditure (TDEE): An estimate of how many calories you burn per day, considering your activity level.
-​3) Calorie Recommendations: Suggested daily calorie intake to achieve your weight goals (lose, maintain, or gain weight)
+The Calorie Needs Calculator allows users to input personal information such as age, gender, height, weight, activity level, and weight goals. Based on this data, it calculates the number of calories your body needs at rest, an estimate of how many calories you burn per day, considering your activity level and suggested daily calorie intake to achieve your weight goals (lose, maintain, or gain weight).
 
 # Screenshots
 ![Screenshot 2025-04-20 124838](https://github.com/user-attachments/assets/49efc6b1-827c-401b-b661-23be8941f685)
